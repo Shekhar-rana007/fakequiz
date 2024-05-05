@@ -29,12 +29,14 @@ const Start = () => {
               Rules To Play The Game 🎯
             </p>
           </div>
+          {/* "commnet" */}
           <div className="w-3/4 px-5">
             <ul className="list-disc">
               <li className="leading-8 tracking-wide">
                 Spot-the-fake is a web-based game that requires the player to
                 identify the counterfeit website between two images of a
                 website. The two website images are for the same brand, where
+
                 one is an image of the actual website and the other is a fake
                 site. The player is given a total of 15 seconds for each pair of
                 images to identify the counterfeit website. There are a total of
