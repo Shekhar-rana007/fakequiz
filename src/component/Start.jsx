@@ -29,7 +29,7 @@ const Start = () => {
               Rules To Play The Game 🎯
             </p>
           </div>
-          {/* "commnet" */}
+           
           <div className="w-3/4 px-5">
             <ul className="list-disc">
               <li className="leading-8 tracking-wide">
