@@ -15,6 +15,7 @@ const Start = () => {
       navigate("/game", { state: { playerName } });
     }
   };
+  //comment
   return (
     <>
       <div className="font-poppins text-white">
